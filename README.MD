@@ -7,8 +7,6 @@ At the moment the script can generate the branches, but no leaves are generated 
 
 # Examples
 
-![Demo Tree 1](https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree1.png | width=100)
-
-![Demo Tree 2](https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree2.png | width=100)
-
-![Rotating Tree](https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree_gif_1.gif)
+<img src="https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree1.png" width="100" alt="Demo Tree 1">
+<img src="https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree2.png" width="100" alt="Demo Tree 2">
+<img src="https://github.com/KolijnWolfaardt/TreeGen/raw/master/images/tree_gif_1.gif" width="100" alt="Rotating Tree">
