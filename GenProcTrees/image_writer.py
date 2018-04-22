@@ -4,7 +4,7 @@ import time
 from PIL import Image, ImageDraw
 
 
-def write_image_from_tree(file_name: str, tree):
+def write_image_from_tree(file_name, tree):
     # Draw the tree to a png file, to quickly check the output
     img = Image.new('RGB', (1024, 1024), (130, 179, 246))  # create a new blue image
     pixels = img.load()  # create the pixel map
